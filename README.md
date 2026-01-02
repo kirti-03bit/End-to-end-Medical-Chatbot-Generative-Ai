@@ -1,5 +1,7 @@
 # HEALTH ASSISTENT
 
+![IMAGE](https://github.com/kirti-03bit/End-to-end-Medical-Chatbot-Generative-Ai/blob/main/MEDICAL.png)
+
 # How to run?
 ### STEPS:
 Clone the repository
